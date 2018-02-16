@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1518796240 source:c:\users\adai03\desktop\interro\casino\main.cpp
+	<iostream>
+	"casino.h"
+	<stdlib.h>
+	<locale.h>
+	"joueur.h"
+	"jeu.h"
+	<vector>
+	<string>
+	<fstream>
+	<algorithm>
+
+1518796214 source:c:\users\adai03\desktop\interro\casino\src\jeu.cpp
+	<iostream>
+	"casino.h"
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"joueur.h"
+	"jeu.h"
+	<vector>
+	<string>
+	<fstream>
+	<algorithm>
+
+1518795795 c:\users\adai03\desktop\interro\casino\include\jeu.h
+	"casino.h"
+
+1518792827 c:\users\adai03\desktop\interro\casino\include\casino.h
+
+1518769410 source:c:\users\adai03\desktop\interro\casino\src\casino.cpp
+	"casino.h"
+
+1518786041 source:c:\users\adai03\desktop\interro\casino\src\joueur.cpp
+	"joueur.h"
+
+1518790313 c:\users\adai03\desktop\interro\casino\include\joueur.h
+	"casino.h"
+
